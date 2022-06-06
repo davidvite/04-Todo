@@ -1,18 +1,12 @@
-# Webpack Starter
+#ToDo Project
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack .
+This project was useful to understand more of the use of classes and best practices of import and export. 
 
 ### Notas: 
 
-Recuerda reconstruir los modulos de Node
-```
-npm install
-```
+Usar localStorage and SessionStorage, cambiar estados y clases. 
 
-Y para construir el build
 
-```
-npm run build
-```
+### Live:
 
 https://davidvite.github.io/04-Todo/#/
